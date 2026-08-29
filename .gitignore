@@ -1,0 +1,8 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+ML/priority_model.zip
+.vs/
+*.user
